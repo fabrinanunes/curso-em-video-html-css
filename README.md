@@ -1,2 +1,3 @@
-# curso-em-video-html-css
-Exercícios e Desafios do Curso Guanabara ensinando sobre HTML e CSS - ministrado por Gustavo Guanabara
+# @Curso em Vídeo HTML5 e CSS3
+
+Exercícios e Desafios do [Curso em Vídeo HTML5 e CSS3] - ministrado por Gustavo Guanabara (https://github.com/gustavoguanabara/html-css)
