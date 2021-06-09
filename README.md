@@ -4,8 +4,8 @@ Exercícios e Desafios do [Curso em Vídeo HTML5 e CSS3](https://github.com/gust
 
 [Módulo I](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20I)
 
-▶️ [Exercícios](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20I/Desafios)
+▶️ [Exercícios](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20I/Exercicios)
 
-▶️ [Desafios](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20I/Exercicios)
+▶️ [Desafios](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20I/Desafios)
 
 🔜 Módulo II - em breve.
