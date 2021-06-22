@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+
+a{
+    color:rgb(130, 42, 198);
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(48, 107, 149);
+}
+
+a:hover{
+    color: rgb(29, 64, 90);
+    text-decoration:underline
+}
+
+a:active{
+    color: rgb(16, 16, 74);
+    font-weight: bold;
+}
+
+a::after{
+    content: '✨';
+    text-decoration: none;
+    font-weight: normal;
+    color: rgb(202, 183, 158);
+}

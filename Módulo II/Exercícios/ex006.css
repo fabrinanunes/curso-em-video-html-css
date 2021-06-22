@@ -1,0 +1,32 @@
+div{
+    display: inline-block;
+    background-color: blueviolet;
+    border: 1px solid black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+div:hover{
+    background-color: cadetblue;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section > p {
+    display: none;
+}
+
+section:hover{
+    color: blueviolet
+}
+
+section:hover > p {
+    display: block;
+    color: white;
+    background-color: rgb(78, 13, 95);
+    width: 150px;
+    text-align: center;
+}

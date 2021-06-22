@@ -1,0 +1,12 @@
+h1{
+    height: 40px;
+    width: 400px;
+    background-color: rgb(163, 195, 254);
+    border: 5px solid rgb(88, 131, 210);
+    margin: 20px auto;
+}
+
+a{
+    border: 2px dotted rgb(88, 131, 210);
+    padding: 2px 10px;
+}

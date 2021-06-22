@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  font-family: "Work Sans" Arial, Helvetica, sans-serif;
+
+  font-size: 1em;
+  font-weight: 400;
+}
+
+h1 {
+  /*shorthand font: style, weight, size, family*/
+  font: italic bolder 3em "Work Sans", sans-serif;
+  text-align: center;
+}
+
+h2{
+    font: italic bolder 1.5em "Work Sans", sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: justify;
+  text-indent: 80px;
+}
+
+/* 
+Medidas Absolutas
+cm, mm, in (polegadas), px, pt (ponto), pc
+
+Medidas Relativas
+em (tamanho atual da fonte), ex (altura x), rem(root), vw (largura), vh (altura), %
+
+Recomendação font-family: px ou em
+16px = 1em (geralmente)
+*/
